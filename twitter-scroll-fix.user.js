@@ -2,9 +2,10 @@
 // @name Fix for #NewTwitter: Scrolling the Details Pane
 // @author Vasil Dinkov
 // @namespace http://vadikom.com/dailies/fix-for-new-twitter-scrolling-of-the-details-pane/
-// @version 1.0
+// @version 1.1
 // @description Prevents the whole page from scrolling when scrolling the details pane with the mouse wheel
 // @include http://twitter.com/*
+// @include https://twitter.com/*
 // ==/UserScript==
 
 window.addEventListener('load', function() {
